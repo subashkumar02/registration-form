@@ -1,0 +1,31 @@
+header{
+    font-size: 30px;
+}
+.cover{
+    width: 400px;
+    height: 400px;
+    background-color: rgb(224, 158, 224);
+    transform: translateY(90px);
+    border-radius: 40px;
+    
+}
+body{
+    background-image: url(https://tse4.mm.bing.net/th?id=OIP.uTN8oizRQfXiIWSxMFm8xgHaE8&pid=Api&P=0&h=180);
+  background-repeat: no-repeat;
+  background-attachment: fixed;  
+  background-size: cover;
+  font-family: Arial;
+}
+input[type="text"]{
+    border: 1px solid black;
+    border-radius: 8px;
+    padding: 5px;
+}
+input[type="Submit"]{
+    border: 1px solid black;
+    border-radius: 4px;
+    padding: 5px;
+    width: 70px;
+    background-color: rgb(164, 157, 207);
+    transform: translateY(-10px);
+}
